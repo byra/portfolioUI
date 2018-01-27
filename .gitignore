@@ -58,5 +58,5 @@ typings/
 .env
 
 # other files
-./idea
-.package-lock.json
+.idea/
+package-lock.json
